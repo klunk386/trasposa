@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trasposa"
+version = "1.0.0"
+description = "Audio pitch and speed modifier with normalization and playback"
+authors = [
+    { name = "Valerio Poggi" }
+]
+license = { text = "GPL-3.0-or-later" }
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "librosa>=0.10.0",
+    "soundfile",
+    "sounddevice",
+    "pynput"
+]
+
+[project.urls]
+Homepage = "https://github.com/tuo-username/trasposa"
