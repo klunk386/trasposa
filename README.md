@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![Made with Luna](https://img.shields.io/badge/Made_with-Luna-magenta)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
-[![Tests](https://github.com/your-username/trasposa/actions/workflows/tests.yml/badge.svg)](https://github.com/your-username/trasposa/actions)
 [![PyPI](https://img.shields.io/pypi/v/trasposa.svg)](https://pypi.org/project/trasposa/)
 
 **Trasposa** is a lightweight Python tool that allows users to modify the pitch
